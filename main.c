@@ -6,7 +6,7 @@
 #include "saat.h"
 
 
-char saatsuan[] = "20:39:00";
+char saatsuan[] = "20:39:00";     // start time
 
 int main(void) {
 
